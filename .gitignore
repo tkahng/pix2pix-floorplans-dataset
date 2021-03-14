@@ -3,3 +3,5 @@ __pycache__
 venv/
 *.h5
 Icon?
+.ipynb_checkpoints
+.virtual_documents
